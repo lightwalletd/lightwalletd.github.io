@@ -12,6 +12,9 @@ links:
   - name:         Docs
     url:          /docs
     external:     false
+  - name:         Status
+    url:          https://status.lightwalletd.com
+    external:     true
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
