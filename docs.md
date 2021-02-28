@@ -4,4 +4,4 @@ title: Docs
 
 Coming soon..
 
-Find lightwalletd on [Twitter](https://twitter.com/lightwatted).
+Find lightwalletd on [Twitter](https://twitter.com/lightwalletd)
