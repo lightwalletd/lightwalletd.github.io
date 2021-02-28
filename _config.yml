@@ -9,9 +9,9 @@ links:
   - name:         Home
     url:          /
     external:     false
-  # - name:         Docs
-  #   url:          /docs
-  #   external:     false
+  - name:         Links
+    url:          /links
+    external:     false
   - name:         Status
     url:          https://status.lightwalletd.com
     external:     true
