@@ -1,0 +1,31 @@
+Hardware Warrant Canary, March 1st 2021
+
+1. We have not placed any backdoors into our software, and we have not complied with any requests to do so.
+2. We have not complied with any National Security Letters or FISA court orders regarding our software.
+3. We have not been subject to any gag order by a FISA court regarding our hardware.
+
+The next statement will be published on the first day of each month.
+
+HN top 21 front page
+
+1. Gradient Free Optimizers: A collection of modern optimization methods in Python (github.com/simonblanke)
+2. Actually Portable Executables (ahgamut.github.io)
+3. Police misconduct settlements (github.com/fivethirtyeight)
+4. Hunting two PDP-1 photos (which are not what they seem) (masswerk.at)
+5. Ancient Babylonian Algorithms: The Earliest Programs (historyofinformation.com)
+6. Launch HN: Xix.ai (YC W17) – Securely authenticate in web apps by face
+7. Spaceprob.es catalogues all the probes that still communicate with Earth (spaceprob.es)
+8. Invoke is Too High Level (2018) (xlogicx.net)
+9. Universal Radio Hacker: Investigate Wireless Protocols Like a Boss (github.com/jopohl)
+10. Facebook blocked posts by a militia group opposed to the Turkish government (propublica.org)
+11. TLD Graveyard (caida.org)
+12. A new chapter – full-time working from a van in a forest (ghuntley.com)
+13. Unix Implementation for MSX (2005) (sourceforge.net)
+14. Ismail al-Jazari – the medieval 'Father of Robotics' (nationalgeographic.com)
+15. Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team (tesorio.com)
+16. Updating “101 Basic Computer Games” for 2021 (codinghorror.com)
+17. The GPU Sadness Index: Tracking eBay Pricing (tomshardware.com)
+18. Coinbase mafia shows how tight a circle holds sway over Bitcoin (bloomberg.com)
+19. Signal Desktop is corrupting its database (github.com/signalapp)
+20. The Half-Life of Code (2017) (sandimetz.com)
+21. The gently competitive world of giant vegetable growing (atlasobscura.com)
