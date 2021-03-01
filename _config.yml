@@ -6,7 +6,7 @@ signoff:          "lightwalletd" # Your name
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Home
+  - name:         Warrant Canary
     url:          /
     external:     false
   - name:         Links
