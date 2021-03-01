@@ -2,7 +2,7 @@
 title:            "mainnet.lightwalletd.com:9067 // testnet.lightwalletd.com:9067"
 description:      "Zcash public mainnet & testnet lightwalletd service funded by ZOMG"
 url:              https://lightwalletd.com # Site url, without a slash at the end.
-signoff:          "lightwalletd" # Your name
+signoff:          "lightwalletd service operators" # Your name
 share:            false # Turn on twitter and facebook share buttons
 
 links:

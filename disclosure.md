@@ -2,7 +2,6 @@
 title: Disclosure Policy
 ---
 
-## Disclosure Policy
 Do not disclose any bug or vulnerability on public forums, message boards, mailing lists, etc. prior to responsibly disclosing to Nighthawk Team and giving sufficient time for the issue to be fixed and deployed. Do not execute on or exploit any vulnerability.
 
 ### Reporting a Bug or Vulnerability
