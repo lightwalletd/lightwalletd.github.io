@@ -9,6 +9,9 @@ links:
   - name:         Warrant Canary
     url:          /
     external:     false
+  - name:         Disclosure Policy
+    url:          /disclosure
+    external:     false
   - name:         Links
     url:          /links
     external:     false
